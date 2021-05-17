@@ -1,0 +1,30 @@
+{
+    "name": "stream 60 - mount 'em gooooooooooooaaaaaaaaaaaaaaaaaaattttttttttsssssss 🐐",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.18.7",
+        "tag": "v0.18.7",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/485b713b886975e81e1f3318e2324e3b32f20dfd",
+        "target": "1.4.41",
+        "pxt": "6.1.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
